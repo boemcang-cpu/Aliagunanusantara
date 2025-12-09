@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/logo.svg",
   },
+  other: {
+    "facebook-domain-verification": "xehbbkc5dxgqxl8sswmvrpt5b9zje7",
+  },
   openGraph: {
     title: "PT ALIA GUNA NUSANTARA - Jasa Kebersihan Profesional",
     description: "Solusi cleaning service tepercaya, responsif, dan berstandar tinggi untuk mendukung operasional dan kenyamanan lingkungan kerja maupun hunian Anda.",

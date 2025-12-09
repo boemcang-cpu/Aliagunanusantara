@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     icon: "/logo.svg",
   },
   other: {
-    "facebook-domain-verification": "xehbbkc5dxgqxl8sswmvrpt5b9zje7",
+    "facebook-domain-verification": "4bcmavaebaiqui2gsek8005mybm95k",
   },
   openGraph: {
     title: "PT ALIA GUNA NUSANTARA - Jasa Kebersihan Profesional",
